@@ -16,7 +16,7 @@ A dark Neovim color scheme based on the [Zed Monokai Night](https://github.com/f
 
 ```lua
 {
-  'your-username/monokai-night.nvim',
+  'ZzurabSiprashvili/monokai-night.nvim',
   lazy = false,
   priority = 1000,
   config = function()
@@ -29,7 +29,7 @@ A dark Neovim color scheme based on the [Zed Monokai Night](https://github.com/f
 
 ```lua
 use {
-  'your-username/monokai-night.nvim',
+  'ZzurabSiprashvili/monokai-night.nvim',
   config = function()
     vim.cmd('colorscheme monokai-night')
   end
