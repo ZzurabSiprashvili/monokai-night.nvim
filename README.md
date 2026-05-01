@@ -1,10 +1,8 @@
 # Monokai Night for Neovim
 
-A dark Neovim color scheme based on the [Zed Monokai Night](https://github.com/farbodvand/zed-monokai-night) theme.
+A dark Neovim color scheme.
 
 ## Features
-
-- 🎨 Faithful port of the Zed Monokai Night theme
 - 🌳 Full Treesitter support
 - 🔧 LSP semantic token highlighting
 - 📦 Popular plugin support (Telescope, NeoTree, GitSigns, etc.)
@@ -71,12 +69,6 @@ git clone https://github.com/ZzurabSiprashvili/monokai-night.nvim ~/.config/nvim
 | Light Blue | `#66D9EF` | Preprocessor |
 | Purple | `#AE81FC` | Numbers, constants |
 | Comment | `#969696` | Comments |
-
-
-## Credits
-
-- Original theme by [Farbod Vand](https://github.com/farbodvand) for [Zed Editor](https://zed.dev)
-- Ported to Neovim by [Zzurab Siprashvili](https://github.com/ZzurabSiprashvili)
 
 ## License
 
